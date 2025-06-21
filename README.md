@@ -1,0 +1,1 @@
+# SmIC-Smart-Image-Compressor-Menggunakan-Singular-Value-Decomposition
